@@ -340,30 +340,6 @@ button:focus{
     QT
 -------------------------------------------------------------------*/
 
-
-.qt-background{
-	background: url() no-repeat;
-	background-size: 1500px 700px;
-	padding: 100px 0;
-	background-attachment: fixed;
-	background-position: center center;
-	position: relative;
-}
-.qt-background p {
-    font-size: 35px;
-    font-weight: 0;
-    line-height: 44px;
-    color: #fff;
-	font-family: 'Arbutus Slab', serif;
-	margin-bottom: 20px;
-}
-
-.qt-background span {
-    color: #fff;
-    font-size: 20px;  
-	font-weight: 500;	
-}
-
 /*------------------------------------------------------------------
     Menu
 -------------------------------------------------------------------*/
